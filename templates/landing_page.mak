@@ -34,6 +34,12 @@
       </div>
   </div>
   % else:
+  <div class="row-fluid">
+    <div class="span10 offset1 alert alert-info">
+      This website is no longer maintained. This pilot project by some of the Land Matrix partners (CDE and ILC) has served to test a new approach to collect information on land acquisitions. The concept, a substantial part of the software, the valuable experiences gained and all the data collected have now been merged with the Land Matrix and its  new platform, launched in October 2016 (<a href="http://www.landmatrix.org/">www.landmatrix.org</a>). We thank everybody who has contributed to this project and invite you to collaborate and share data with the Land Matrix Partnership. (CDE/ILC 25.10.2016)
+    </div>
+  </div>
+  <br>
   <div class="row-fluid action">
       <div class="span2 offset1">
           ${_('Select a country')}
